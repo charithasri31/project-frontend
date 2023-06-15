@@ -1,0 +1,22 @@
+/*{
+    background-color: aquamarine;
+} */
+  .logo{
+    width: 30% ;
+}
+.items{
+    display:grid;
+    grid-template-columns:repeat(7,auto) ;
+    grid-gap: 70px ;
+    margin-left: 5%;
+}
+.search{
+  border-radius: 50%;
+    margin-left: -150px;
+    margin-right: 3% ;
+}
+.user{
+    margin-top: 5px;
+    height: 30px;
+    margin-right: 0%;
+}  
